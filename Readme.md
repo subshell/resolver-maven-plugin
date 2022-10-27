@@ -43,3 +43,7 @@ System requirements
 
 * Maven 3.2.5
 * Java 7
+
+* * *
+
+Take a look at this project from the [subshell](https://subshell.com) team. We make [Sophora](https://subshell.com/sophora/): a content management software for content creation, curation, and distribution. [Join our team!](https://subshell.com/jobs/) | [Imprint](https://subshell.com/about/imprint/)
