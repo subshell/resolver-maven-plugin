@@ -12,7 +12,7 @@
         A Maven plugin for resolving a version range of an artifact to the highest matching version.
     </description>
 
-    <url>https://github.com/teetrinkers/resolver-maven-plugin</url>
+    <url>https://github.com/subshell/resolver-maven-plugin</url>
 
     <licenses>
         <license>
