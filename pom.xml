@@ -55,14 +55,14 @@
     </distributionManagement>
 
     <issueManagement>
-        <url>https://github.com/teetrinkers/resolver-maven-plugin/issues</url>
+        <url>https://github.com/subshell/resolver-maven-plugin/issues</url>
         <system>GitHub</system>
     </issueManagement>
 
     <scm>
-        <url>http://github.com/teetrinkers/resolver-maven-plugin</url>
-        <connection>scm:git:git://github.com/teetrinkers/resolver-maven-plugin.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/teetrinkers/resolver-maven-plugin.git</developerConnection>
+        <url>https://github.com/subshell/resolver-maven-plugin</url>
+        <connection>scm:git:git://github.com/subshell/resolver-maven-plugin.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/subshell/resolver-maven-plugin.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
